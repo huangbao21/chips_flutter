@@ -1,0 +1,253 @@
+{
+	"version": 21,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				0,
+				0
+			],
+			"width": 400,
+			"height": 150,
+			"origin": [
+				0,
+				0
+			],
+			"clipContents": true,
+			"color": [
+				0.364705890417099,
+				0.364705890417099,
+				0.364705890417099,
+				1
+			],
+			"nodes": [
+				{
+					"name": "图片",
+					"translation": [
+						-326.6823425292969,
+						-340.0032043457031
+					],
+					"rotation": 0,
+					"scale": [
+						5,
+						5
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": false,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"bones": [],
+					"type": "image"
+				},
+				{
+					"name": "New Shape",
+					"translation": [
+						34.13336181640625,
+						84.66666412353516
+					],
+					"rotation": 0,
+					"scale": [
+						0.5,
+						0.5
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 3,
+					"type": "shape"
+				},
+				{
+					"name": "Path",
+					"parent": 1,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": false,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								0,
+								0
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								174.7259521484375,
+								1.764923095703125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								205.61184692382812,
+								-116.48397827148438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								259.44158935546875,
+								94.422607421875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								291.2099304199219,
+								-19.41400146484375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								300.03448486328125,
+								1.764923095703125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								322.0958251953125,
+								1.764892578125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								336.2151184082031,
+								32.65081787109375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								361.8062744140625,
+								-46.77008056640625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								392.69219970703125,
+								59.12445068359375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								440.3447265625,
+								-84.71560668945312
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								470.34814453125,
+								20.29644775390625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								483.5849609375,
+								2.647369384765625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								641.5443115234375,
+								0.8824462890625
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Color",
+					"parent": 1,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 5,
+					"cap": 1,
+					"join": 1,
+					"trim": 2,
+					"start": 0.5,
+					"end": 1,
+					"offset": 0.2550000000000002,
+					"type": "colorStroke"
+				}
+			],
+			"animations": [
+				{
+					"name": "xindiantu",
+					"fps": 20,
+					"duration": 3.033333333333333,
+					"isLooping": true,
+					"keyed": [
+						{
+							"component": 1
+						},
+						{
+							"component": 3,
+							"strokeOffset": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 3.0166666666666666,
+										"interpolatorType": 1,
+										"value": 1
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 3.0166666666666666,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
